@@ -1,0 +1,34 @@
+=== WooCommerce Products Barcodes Generator ===
+Contributors: code2be
+Tags: WooCommerce, Products, Barcode, SKU, Label
+Requires at least: 3.0.1
+Tested up to: 3.9
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This plugin simply add the Feature of Barcodes Generation and Printing to WooCommerce.
+
+You can select All or Some of the Products to Generate Barcodes for. Then, Optionally You can print them.
+
+Also, You can select to use Product ID or Title in case of SKU is empty.
+
+
+== Description ==
+
+You can select All or Some of the Products to Generate Barcodes for. Then, Optionally You can print them.
+
+Also, You can select to use Product ID or Title in case of SKU is empty.
+
+== Installation ==
+
+1. Simply extract the zip file and upload the plugin's directory to wp-content/plugins.
+2. Activate the plugin from "Plugins" section in Your wp-admin.
+
+== Frequently Asked Questions ==
+
+== Screenshots ==
+
+1. Selecting Products to Generate Barcodes.
+2. Generated Barcodes.
+
+== Changelog ==
